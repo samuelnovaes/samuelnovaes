@@ -4,7 +4,7 @@ A passionate full stack developer from Brazil
 
 - 💬 Ask me about **React, Node.js, JavaScript**
 
-- 📫 How to reach me **samuel.sena@isgudi.com**
+- 📫 How to reach me **samuel.novaes.96@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/samuelnovaes](https://www.linkedin.com/in/samuelnovaes)
 
